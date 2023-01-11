@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rahul
 - 👀 I’m interested in learning Rust
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate Rust
 
 <!---
 rahulrajish/rahulrajish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
